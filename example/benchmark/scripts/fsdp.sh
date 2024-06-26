@@ -1,4 +1,4 @@
-conda activate ds-torch-1.13
+# conda activate ds-torch-1.13
 
 export T_MODEL=${T_MODEL:-"opt-1b"}
 
